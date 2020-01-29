@@ -5,7 +5,7 @@ Aprende a crear un Docker con una app en Node.js que escribe datos en una Databa
 # Pre-requisitos
 •	Tener instalado [**Node.js**](https://nodejs.org/es/).<br/>
 •	Tener una cuenta de [**IBM Cloud**](https://cloud.ibm.com/login).<br/>
-•	Instalar [**Docker**](https://www.docker.com/get-started)
+•	Instalar [**Docker**](https://www.docker.com/get-started)<br/>
 • Instalar la CLI de [**IBM Cloud**](https://console.bluemix.net/docs/cli/reference/bluemix_cli/get_started)<br/> 
 •	Instalar plugins: Container registry y container service
 ###
